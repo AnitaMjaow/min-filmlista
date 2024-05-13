@@ -1,0 +1,48 @@
+body {
+	background: rgb(223, 127, 209);
+}
+
+ul {
+	list-style-type: none;
+}
+
+/* custom-style.css */
+/* Styles for: App.js */
+.container {
+	margin-bottom: 80px;
+	/* Adjust the margin to create space for the footer */
+}
+
+.movie-list {
+	list-style: none;
+	padding: 0;
+}
+
+.movie-item {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	margin-bottom: 10px;
+}
+
+.movie-title {
+	flex-grow: 1;
+}
+
+/* Styles for: index.html */
+header {
+	text-align: center;
+}
+
+footer {
+	position: fixed;
+	width: 100%;
+	bottom: 0;
+	box-sizing: border-box;
+	background-color: #333;
+	/* Example background color */
+	color: #fff;
+	/* Example text color */
+	padding: 20px;
+	/* Example padding */
+}
