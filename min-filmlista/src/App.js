@@ -1,5 +1,6 @@
 import MovieList from './components/MovieList';
 import MovieForm from './components/MovieForm';
+import './custom-style.css';
 
 function App() {
   return (
