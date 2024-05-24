@@ -10,15 +10,16 @@ Features:
 
 Usage:
 1. Clone the repository: git clone https://github.com/your-username/movie-application.git](https://github.com/AnitaMjaow/min-filmlista.git
-2. Install Dependencies: npm install
-3. Run the application: npm start
-4. Open the application: Open your web browser and navigate to http://localhost:3000
+2. Go to path: cd min-filmlista
+3. Install Dependencies: npm install
+4. Run the application: npm start
+5. Open the application: Open your web browser and navigate to http://localhost:3000
 
 Dependencies:
 
 Before running the application, make sure you have Node.js installed. You can download and install Node.js from [nodejs.org](https://nodejs.org/).
-After cloning the repository, install the project dependencies by running the following command, 2. Install Dependencies: npm install.
- Important dependencies to check [yes] when installing if asked:
+After cloning the repository, install the project dependencies by running the following command, 3. Install Dependencies: npm install.
+Important dependencies to check [yes] when installing if asked:
 
 - React.js: A JavaScript library for building user interfaces
 - React Router DOM: Declarative routing for React applications
