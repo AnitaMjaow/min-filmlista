@@ -1,6 +1,6 @@
 Movie Application
 
-Welcome to the Movie Application! This is a simple web application built with React.js for managing a list of movies. Users can add new movies, remove existing ones, and sort the movie list alphabetically or by grade.
+Welcome to min-filmlista, the Movie Application! This is a simple web application built with React.js for managing a list of movies. Users can add new movies, remove existing ones, and sort the movie list alphabetically or by grade.
 
 Features:
 - Add new movies with titles and grades.
